@@ -22,7 +22,7 @@ Trabajo Practico de Programación 2 UTN
 - Materia: Programación 2
 
 ## Descripción del Proyecto
-Este proyecto es un juego de ahorcado desarrollado como parte del Trabajo Práctico Integrador para la materia de Programación Avanzada.
+Este proyecto es un juego de ahorcado desarrollado como parte del Trabajo Práctico Integrador para la materia de Programación 2.
 
 ## Link al Repositorio de GitHub
-
+https://github.com/RamirezDiazCarlos/TP-ProgramacionII.git
